@@ -7,7 +7,7 @@ The macOS Security Compliance Checker is a Python script designed to automate th
 <h2> Features </h2>
 Firewall Check: Verifies if the macOS firewall is active.
 <br>
-FileVault Encryption Check: Determines whether FileVault encryption is enabled, securing the machine's data.
+FileVault Encryption Check: Determines whether FileVault encryption is enabled.
 
 <br>
 
