@@ -17,7 +17,7 @@ Before running this script, ensure you have the following:
 - macOS operating system (version 10.15 or later recommended).
 - Python 3.6 or higher installed.
 
-Usage
+<h2>Usage</h2>
 To run the script, execute the following command in the terminal:
 
 <code>python3 security_compliance_checker.py</code>
