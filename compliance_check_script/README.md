@@ -17,25 +17,10 @@ Before running this script, ensure you have the following:
 - macOS operating system (version 10.15 or later recommended).
 - Python 3.6 or higher installed.
 
-<h2> Installation </h2>
-Clone the repository or download the script to your local machine.
-<br>
-<br>
-<code> git clone https://example.com/macos_security_compliance_checker.git
-</code>
-<br>
-<br>
-Navigate to the script's directory.
-<code> 
-cd macos_security_compliance_checker
-</code>
-
 Usage
 To run the script, execute the following command in the terminal:
 
-<code>
-python3 security_compliance_checker.py
-</code>
+<code>python3 security_compliance_checker.py</code>
 
 <h2>Output</h2>
 The script outputs:
@@ -44,8 +29,3 @@ The script outputs:
 - FileVault Status: Enabled/Disabled
 
 
-
-<h2> Dependencies </h2>
-
-- os: For executing system-level commands in macOS.
-- subprocess: For invoking commands that check the firewall and FileVault statuses.
