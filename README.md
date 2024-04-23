@@ -6,3 +6,4 @@ For detailed information on each project, please refer to the corresponding proj
 
 - [FireVault & Firewall Checker](https://www.notion.so/macOS-FireVault-Firewall-Compliance-Checker-90d169900c024b78816386e9480cc6ff?pvs=4)
 - [Python Keylogger](https://www.notion.so/lovira/Python-Keylogger-fbcea82ed4784f488d3c060878255119?pvs=4)
+- [NIST Password Checker](https://lovira.notion.site/NIST-Password-Checker-f1145cdb59bf41e3bb5b33bcfc6e8096?pvs=4)
